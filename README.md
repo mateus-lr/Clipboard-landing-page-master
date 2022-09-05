@@ -15,13 +15,13 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ### Screenshot
 
 <div align="center">
-<img src="./Screenshot/desktop.png">
-<img src="./Screenshot/mobile.png" width="40%">
+<img src="./screenshot/desktop.jpeg">
+<img src="./screenshot/mobile.jpeg" width="40%">
 </div>
 
 ### Links
 
-[live Site](#)
+[live Site - Clipboard landing page solution](https://mateus-lr.github.io/Clipboard-landing-page-master/)
 
 ### Built with
 
@@ -34,4 +34,4 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 - Website - [Mateus Rocha](https://github.com/mateus-lr)
 - Frontend Mentor - [@mateus-lr](https://www.frontendmentor.io/profile/mateus-lr)
-- Twitter - [@matscript](https://www.twitter.com/maatscript)
+- Twitter - [@maatscript](https://www.twitter.com/maatscript)
