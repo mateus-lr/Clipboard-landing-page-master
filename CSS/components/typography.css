@@ -1,0 +1,23 @@
+.font-xl {
+  font: 600 2.4rem/1.25 "Bai Jamjuree", sans-serif;
+}
+
+.font-l {
+  font: 600 2rem/1.25 "Bai Jamjuree", sans-serif;
+}
+
+.font-m {
+  font: 600 1.2rem/1.50 "Bai Jamjuree", sans-serif;
+}
+
+.font-m-b {
+  font: 400 1.2rem/1.50 "Bai Jamjuree", sans-serif;
+}
+
+.font-s {
+  font: 400 1.125rem/1.35 "Bai Jamjuree", sans-serif;
+}
+
+.font-xs {
+  font: 600 0.875rem/1.35 "Bai Jamjuree", sans-serif;
+}

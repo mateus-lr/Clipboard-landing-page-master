@@ -1,0 +1,36 @@
+.header-bg {
+  background: url(../../images/bg-header-desktop.png) no-repeat;
+  background-position-y: -80px;
+}
+
+.header {
+  height: 280px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.header-img {
+  padding-bottom: 20px;
+}
+
+.header-img img {
+  width: 80%;
+}
+
+@media (max-width: 375px) {
+  .header-bg {
+    width: 100%;
+    background: url(../../images/bg-header-mobile.png) center no-repeat;
+  }
+}
+
+@media (max-width: 420px) {
+  .header {
+    margin-bottom: 60px;
+  }
+
+  .header-img img {
+    width: 100%;
+  }
+}

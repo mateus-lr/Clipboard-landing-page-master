@@ -1,0 +1,19 @@
+.brands-bg {
+  background-color: var(--color-0);
+  margin-bottom: 120px;
+}
+
+.brands-list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  align-items: center;
+  justify-items: center;
+}
+
+@media (max-width:800px) {
+  .brands-list {
+    grid-template-columns: 1fr;
+    gap: 50px;
+    justify-content: center;
+  }
+}
